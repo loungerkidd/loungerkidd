@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @loungerkidd
-- 👀 I’m interested in ...data science and technology 
-- 🌱 I’m currently learning ...data science and machine learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m into...data science and machine learning
+- 💞️ I’m looking to collaborate on more projects for data solutions...
 - 📫 How to reach me ...loungerkid@gmail.com 
 
 <!---
